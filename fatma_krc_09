@@ -1,0 +1,5 @@
+pip install request
+chmod +x cupp.py
+chmod +x instaBrute.py
+python cupp.py -i
+python instaBrute.py -u gereksizprofil123 -d gereksiz.txt
